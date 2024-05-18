@@ -5,7 +5,7 @@
 # AI-Powered Chatbot for WordPress
 
 ## Introduction
-Hi friends, in this project, I will show you how to create an AI-powered chatbot on WordPress like the one on my portfolio website, [hasanbeker.com](https://hasanbeker.com). This chatbot is designed to provide information about me, Hasan Beker, and it is built from scratch without using any third-party services or plugins. This guide will help you understand how AI chatbots are built so you can create one for your own website or offer it as a freelancing service to your clients.
+In this project, I generated an AI-powered chatbot on WordPress like the one on my portfolio website, [hasanbeker.com](https://hasanbeker.com). This chatbot is designed to provide information about me, Hasan Beker, and it is built from scratch without using any third-party services or plugins. 
 
 ## Features
 - **Online Status**: Displays the chatbot's availability.
@@ -14,12 +14,6 @@ Hi friends, in this project, I will show you how to create an AI-powered chatbot
 - **Memory**: The chatbot remembers past conversations.
 - **Custom Commands**: Predefined prompts to assist users quickly.
 
-## Benefits
-1. **24/7 Support**: Provide round-the-clock information to visitors.
-2. **Collect Customer Feedback**: Gather feedback easily with the chatbot.
-3. **Reduce Customer Requests**: Decrease the volume of support emails.
-4. **Boost Conversions**: Increase engagement and leads through interactive chats.
-5. **Improve User Experience**: Enhance user engagement with fast support.
 
 ## How to Create the Chatbot
 
