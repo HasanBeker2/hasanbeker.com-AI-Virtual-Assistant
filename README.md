@@ -1,7 +1,7 @@
 ![Demo GIF](https://github.com/HasanBeker2/hasanbeker.com-AI-Virtual-Assistant/blob/main/hasanbeker.com%20gif.gif)
 
 
-```markdown
+
 # AI-Powered Chatbot for WordPress
 
 ## Introduction
@@ -28,7 +28,8 @@ Hi friends, in this project, I will show you how to create an AI-powered chatbot
    - `index.html`: The main HTML file for the chatbot interface.
    - `styles.css`: The CSS file for styling the chatbot.
    - `scripts.js`: The JavaScript file to handle chatbot interactions.
-
+   - `config.php`: php file for backend
+   - 
 2. **Test Locally**:
    - Open the `index.html` file in a browser to ensure the chatbot loads and functions correctly.
 
@@ -37,7 +38,7 @@ Hi friends, in this project, I will show you how to create an AI-powered chatbot
    - Go to your WordPress dashboard, navigate to Plugins, and install the "WP Code Snippet" plugin.
 
 2. **Create Code Snippet**:
-   - Add a new PHP code snippet in the plugin to handle AI responses, dummy responses for testing, and chatbot requests.
+   - Paste the PHP code snippet config in the plugin to handle AI responses, dummy responses for testing, and chatbot requests.
    - Customize the bot's base configurations (status, startup message, avatar URL, and commands).
 
 ### Step 3: Add Information About Hasan Beker
@@ -70,18 +71,13 @@ Hi friends, in this project, I will show you how to create an AI-powered chatbot
 ## Conclusion
 By following these steps, you can create a fully functional, customizable AI chatbot for your WordPress site that provides detailed information about Hasan Beker. This project showcases the potential of AI in enhancing customer interactions and automating support tasks. If you found this guide helpful, please star this repository and follow my channel for more AI and automation tutorials.
 
-## Resources
-- [HubSpot AI in Marketing](https://hubspot.com)
-- [My YouTube Channel](https://youtube.com/hasanbeker)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Thank you for following along! Please try my virtual assistant the link below.
+If you have any questions or need further assistance, feel free to reach out. You can test the chatbot link below.
 
 
-[hasanbeker.com](https://hasanbeker.com)
-```
+[hasanbeker.com](https://hasanbeker.com/chatbot/)
+
 
